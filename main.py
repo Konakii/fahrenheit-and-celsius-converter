@@ -1,5 +1,5 @@
 while True:
-    va = input('to converter celsius to fahrenheit type it 1 and fahrenheit to celsius type it 2 ')
+    va = input('to converter celsius to fahrenheit type it 1 and fahrenheit to celsius type it 2: ')
     if va == '1':
         
         var = int(input('write the degrees in celsius: '))
